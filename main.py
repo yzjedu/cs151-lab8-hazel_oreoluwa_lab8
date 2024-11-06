@@ -1,10 +1,10 @@
-# Programmers: Hazel, Oreoluwa Adebusoye
+# Programmers: Hazel Osborne, Oreoluwa Adebusoye
 # Course: CS151, Zelalem Yalew
 # Due Date: 11/06
 # Programming Assignment: Lab 08
-# Problem Statement:
-# Data In:
-# Data Out:
+# Problem Statement: Display the distribution of rolls of two dice
+# Data In: User number of rolls
+# Data Out: Sum of rolls
 # Credits: None
 
 
