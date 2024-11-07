@@ -14,7 +14,7 @@
 * Return: list
 * Algorithm:
     1. count = 0
-    2. Set track_rolls_list to have 12 0's
+    2. Set track_rolls_list to have 11 0's
     2. While count < number of rolls
        5. call dice_roll_calculation
        6. add 1 to list index corresponding with sum

@@ -1,0 +1,18 @@
+# Reflection Document
+
+* Drive Full Name  : Oreoluwa Adebusoye
+* Partner Full Name: Hazel Osborne
+* Student ID: 001883626
+
+One challenge was ensuring that the sums were properly counted and displayed in a user-friendly format. 
+Another challenge was understanding how to track the rolls. 
+To help me overcome the problems, I first broke down the problem into smaller parts—rolling the dice, 
+counting the sums, and displaying the results. Also, my partner and I outlined the steps in the algorithm 
+before writing any code, which helped me structure the program logically. Additionally, we tested individual 
+components (like rolling the dice and counting the sums) before integrating everything into the main function.
+One key takeaway was the importance of understanding how much you can do when you know how to manipulate strings and lists.
+Yes, I believe I successfully learned how to simulate a random dice-rolling process, count occurrences of dice sums,
+and display the results in a chart format.
+Working with my partner was really amazing. I learned a lot from her in terms of learning how to design 
+solutions to problem.  We discussed the logic behind dice roll distributions and helped each other solve 
+any issues that arose. Working with my partner was an extremely rewarding experience.
